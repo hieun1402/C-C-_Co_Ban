@@ -8,7 +8,5 @@ int main()
    printf("0.5 + 0.5 =%.0f\n",d+d);
    printf("9.45 + 0.55 =%.0f\n",e+f);
    printf("1 + 0.5 = %.1f\n",c+d);
-
- 
    return(0);
 }
