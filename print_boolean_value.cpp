@@ -2,7 +2,7 @@
 
 int main()
 {
-    bool gender = true ;
+    bool gender = false ;
     if(gender == true){
         printf("My gender is male");
     }else{

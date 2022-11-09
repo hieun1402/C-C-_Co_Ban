@@ -7,6 +7,6 @@ int main()
     scanf("%f",&a);
     printf("second number : \n");
     scanf("%f",&b);
-    printf("sum of float number : %.0f",a+b);
+    printf("sum of float number : %.1f",a+b);
     return 0;
 }
