@@ -6,6 +6,7 @@ int main()
    printf("input your gender :\n");
    scanf("%d");
    // fhjksdhfweoiufhkldshflkahslkfhehjfgi
+   //fgsdfgsdfgsdtfsegdfs
    if(a==1){
     printf("your gender is male");
    }else{
