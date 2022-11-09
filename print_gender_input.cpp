@@ -5,8 +5,7 @@ int main()
    bool a=true , b=false;
    printf("input your gender :\n");
    scanf("%d");
-   // fhjksdhfweoiufhkldshflkahslkfhehjfgi
-   //fgsdfgsdfgsdtfsegdfs
+   //test commit
    if(a==1){
     printf("your gender is male");
    }else{
