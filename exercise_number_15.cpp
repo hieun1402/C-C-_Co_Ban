@@ -1,7 +1,9 @@
 #include<iostream> //khai bao thu vien
 #include<math.h>   //khai bao thu vien toan hoc
+
+
 int main(){
-    float x1 , y1 , x2 , y2 , dis;
+    float x1 , y1 , x2 , y2 , dis; // khai bao va khoi tao cac bien
     printf("Input x1: ");
     scanf("%f",&x1);
     printf("Input y1: ");
