@@ -1,5 +1,5 @@
 #include<iostream> //khai bao thu vien
-#include<math.h>
+#include<math.h>   //khai bao thu vien toan hoc
 int main(){
     float x1 , y1 , x2 , y2 , dis;
     printf("Input x1: ");
