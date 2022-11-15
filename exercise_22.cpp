@@ -5,7 +5,7 @@ int main(){
     printf("Input five number:");
     for(a=0 ; a<5 ; a++)                  
     scanf("%d",&b[a]);
-    for(a=0 ; a<5 ; a++){
+    for(a=0 ; a<5 ; a++){                         //for (biểu-thức-khởi-tạo ; biểu-thức-điều-kiện ; biểu-thức-thay-đổi )
         if((b[a]%2)!=0){
             odd_sum = odd_sum +b[a];
         }
