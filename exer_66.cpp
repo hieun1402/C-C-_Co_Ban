@@ -14,7 +14,7 @@ int main(){
     return 0;
   }
 
-  srand(time(NULL));
+  srand(time(NULL)); // sau mỗi 1 lượt chạy thì sẽ in ra các số khác nhau tránh bị trùng 
   fprintf(fptr, "%d\n", N); // ghi dữ liệu vào file
   for(i=1 ; i<=N ; i++){
     fprintf(fptr, "%0.4lf\n", (rand()%2001-1000)/2.e3);
